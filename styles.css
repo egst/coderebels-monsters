@@ -65,3 +65,9 @@ a {
 #list > * h2 {
     text-align: center;
 }
+
+#list > * img {
+    max-width: 80%;
+    background-color: rgb(33, 33, 33);
+    box-shadow: 0 0 10px black;
+}
